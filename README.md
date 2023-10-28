@@ -31,6 +31,8 @@ New changes added to check
 
 New changes added to check the data
 
+You can contribute in many ways
+
 ### Copyright
 
 2014 Git.Training
