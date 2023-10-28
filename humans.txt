@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yogesh -- yogeshthota@gmail.com -- yogeshthota.twitter
 
 # THANKS
 
