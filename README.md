@@ -30,3 +30,7 @@ Modified Contribute
 New changes added to check
 
 New changes added to check the data
+
+### Copyright
+
+2014 Git.Training
